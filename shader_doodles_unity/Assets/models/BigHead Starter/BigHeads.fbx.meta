@@ -1,0 +1,683 @@
+fileFormatVersion: 2
+guid: 14a32c2c209c34e428472b6f5ae5d502
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BigHead_base
+    100002: BigHeads
+    100004: //RootNode
+    100006: BigHeads floor
+    100008: BigHeads Footsteps
+    100010: BigHeads Head
+    100012: BigHeads HeadNub
+    100014: BigHeads L Calf
+    100016: BigHeads L Clavicle
+    100018: BigHeads L Finger0
+    100020: BigHeads L Finger01
+    100022: BigHeads L Finger0Nub
+    100024: BigHeads L Finger1
+    100026: BigHeads L Finger11
+    100028: BigHeads L Finger1Nub
+    100030: BigHeads L Finger2
+    100032: BigHeads L Finger21
+    100034: BigHeads L Finger2Nub
+    100036: BigHeads L Foot
+    100038: BigHeads L Forearm
+    100040: BigHeads L Hand
+    100042: BigHeads L Thigh
+    100044: BigHeads L Toe0
+    100046: BigHeads L Toe0Nub
+    100048: BigHeads L UpperArm
+    100050: BigHeads Neck
+    100052: BigHeads Pelvis
+    100054: BigHeads R Calf
+    100056: BigHeads R Clavicle
+    100058: BigHeads R Finger0
+    100060: BigHeads R Finger01
+    100062: BigHeads R Finger0Nub
+    100064: BigHeads R Finger1
+    100066: BigHeads R Finger11
+    100068: BigHeads R Finger1Nub
+    100070: BigHeads R Finger2
+    100072: BigHeads R Finger21
+    100074: BigHeads R Finger2Nub
+    100076: BigHeads R Foot
+    100078: BigHeads R Forearm
+    100080: BigHeads R Hand
+    100082: BigHeads R Thigh
+    100084: BigHeads R Toe0
+    100086: BigHeads R Toe0Nub
+    100088: BigHeads R UpperArm
+    100090: BigHeads Spine
+    100092: BigHeads Spine1
+    400000: BigHead_base
+    400002: //RootNode
+    400004: BigHeads
+    400006: BigHeads floor
+    400008: BigHeads Footsteps
+    400010: BigHeads Head
+    400012: BigHeads HeadNub
+    400014: BigHeads L Calf
+    400016: BigHeads L Clavicle
+    400018: BigHeads L Finger0
+    400020: BigHeads L Finger01
+    400022: BigHeads L Finger0Nub
+    400024: BigHeads L Finger1
+    400026: BigHeads L Finger11
+    400028: BigHeads L Finger1Nub
+    400030: BigHeads L Finger2
+    400032: BigHeads L Finger21
+    400034: BigHeads L Finger2Nub
+    400036: BigHeads L Foot
+    400038: BigHeads L Forearm
+    400040: BigHeads L Hand
+    400042: BigHeads L Thigh
+    400044: BigHeads L Toe0
+    400046: BigHeads L Toe0Nub
+    400048: BigHeads L UpperArm
+    400050: BigHeads Neck
+    400052: BigHeads Pelvis
+    400054: BigHeads R Calf
+    400056: BigHeads R Clavicle
+    400058: BigHeads R Finger0
+    400060: BigHeads R Finger01
+    400062: BigHeads R Finger0Nub
+    400064: BigHeads R Finger1
+    400066: BigHeads R Finger11
+    400068: BigHeads R Finger1Nub
+    400070: BigHeads R Finger2
+    400072: BigHeads R Finger21
+    400074: BigHeads R Finger2Nub
+    400076: BigHeads R Foot
+    400078: BigHeads R Forearm
+    400080: BigHeads R Hand
+    400082: BigHeads R Thigh
+    400084: BigHeads R Toe0
+    400086: BigHeads R Toe0Nub
+    400088: BigHeads R UpperArm
+    400090: BigHeads Spine
+    400092: BigHeads Spine1
+    4300000: BigHead_base
+    9500000: //RootNode
+    13700000: BigHead_base
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: BigHeads Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: -100, z: -55}
+        max: {x: 0, y: 100, z: 100}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 1
+    - boneName: BigHeads R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: -100, z: -50}
+        max: {x: 0, y: 100, z: 100}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 1
+    - boneName: BigHeads L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads L Finger0
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads L Finger01
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads R Finger0
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads R Finger01
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads R Finger1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads R Finger11
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads R Finger2
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads R Finger21
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads L Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads L Finger11
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads L Finger2
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BigHeads L Finger21
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: BigHeads(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BigHead_base
+      parentName: 
+      position: {x: 0.0000000023755127, y: 0.0000000047683715, z: 0.000000009536743}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BigHeads
+      parentName: 
+      position: {x: 0, y: 0.64939505, z: 0.01802795}
+      rotation: {x: -0.5, y: 0.5, z: 0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BigHeads Footsteps
+      parentName: 
+      position: {x: -0, y: 0, z: -0.6510395}
+      rotation: {x: 0, y: 0, z: -0.70710635, w: 0.7071073}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BigHeads Pelvis
+      parentName: 
+      position: {x: 0.000000070780516, y: -3.6385565e-11, z: 0.021175802}
+      rotation: {x: 0.5045598, y: -0.49539825, z: -0.5045599, w: -0.4953982}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BigHeads L Thigh
+      parentName: 
+      position: {x: -0.00000011891207, y: 0.000000115843825, z: 0.07775374}
+      rotation: {x: 0.045578297, y: 0.9978083, z: 0.047971245, w: 0.0002623828}
+      scale: {x: 0.99999964, y: 0.9999998, z: 0.9999998}
+    - name: BigHeads L Calf
+      parentName: 
+      position: {x: -0.33683154, y: -0.000000015214102, z: -0.0000000060120895}
+      rotation: {x: -0.000000003943329, y: 0.000000020649498, z: 0.02833857, w: 0.9995984}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000005}
+    - name: BigHeads L Foot
+      parentName: 
+      position: {x: -0.24350621, y: 0.000000021349287, z: 0.000000025164436}
+      rotation: {x: 0.010176642, y: 0.0017016769, z: -0.073824994, w: 0.9972179}
+      scale: {x: 0.9999997, y: 1, z: 1.0000001}
+    - name: BigHeads L Toe0
+      parentName: 
+      position: {x: -0.07475719, y: 0.09900001, z: -0.0000000115330225}
+      rotation: {x: 0.0000000026874938, y: 0.0000000033321603, z: -0.7071068, w: 0.7071068}
+      scale: {x: 0.9999999, y: 1.0000002, z: 0.9999997}
+    - name: BigHeads L Toe0Nub
+      parentName: 
+      position: {x: -0.07182314, y: 0, z: 0.0000000047683715}
+      rotation: {x: 7.28864e-18, y: -4.463005e-34, z: 1, w: 6.123234e-17}
+      scale: {x: -1.0000001, y: -1, z: -1.0000001}
+    - name: BigHeads R Thigh
+      parentName: 
+      position: {x: -2.9722025e-10, y: -0.000000073419706, z: -0.077753715}
+      rotation: {x: 0.04556588, y: 0.9985198, z: -0.029679459, w: -0.0010975793}
+      scale: {x: 0.9999997, y: 0.99999994, z: 0.9999996}
+    - name: BigHeads R Calf
+      parentName: 
+      position: {x: -0.33683148, y: 0.000000014060869, z: 0.000000011185529}
+      rotation: {x: 0.000000028814506, y: -0.000000032132544, z: 0.02833857, w: 0.99959844}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000005}
+    - name: BigHeads R Foot
+      parentName: 
+      position: {x: -0.24350621, y: 0.000000025353714, z: 0.0000000038150763}
+      rotation: {x: -0.010176548, y: -0.0017017616, z: -0.07382502, w: 0.99721783}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+    - name: BigHeads R Toe0
+      parentName: 
+      position: {x: -0.07475714, y: 0.09900004, z: 0.0000000049152287}
+      rotation: {x: -0.000000048368044, y: -0.000000049012886, z: -0.7071068, w: 0.7071068}
+      scale: {x: 0.9999997, y: 0.99999964, z: 0.9999997}
+    - name: BigHeads R Toe0Nub
+      parentName: 
+      position: {x: -0.071823135, y: 0, z: 0.000000009536743}
+      rotation: {x: 1.6543612e-24, y: -0.0000000018626451, z: 8.881784e-16, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: BigHeads Spine
+      parentName: 
+      position: {x: -0.0813948, y: -0.00013843796, z: -0.0000025445634}
+      rotation: {x: 0.009160936, y: -0.00000003007407, z: -0.000000030076613, w: 0.9999581}
+      scale: {x: 0.9999998, y: 1, z: 0.99999976}
+    - name: BigHeads Spine1
+      parentName: 
+      position: {x: -0.17391095, y: -0.00007046311, z: -0.000000005564984}
+      rotation: {x: -0.00000007405594, y: 0.0000000023637792, z: 0.019113734, w: 0.9998173}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: BigHeads L Clavicle
+      parentName: 
+      position: {x: -0.17776832, y: -0.010733053, z: 0.034875624}
+      rotation: {x: -0.6764735, y: -0.00027043806, z: 0.7364669, w: -0.00029225758}
+      scale: {x: 1.0000002, y: 0.9999997, z: 0.9999995}
+    - name: BigHeads L UpperArm
+      parentName: 
+      position: {x: -0.1159171, y: 0.00000001338452, z: 0.00000005025619}
+      rotation: {x: 0.06711313, y: 0.012714018, z: -0.009198393, w: 0.99762195}
+      scale: {x: 0.99999994, y: 0.9999997, z: 0.9999999}
+    - name: BigHeads L Forearm
+      parentName: 
+      position: {x: -0.25860322, y: 0.00000007162537, z: 0.00000042091148}
+      rotation: {x: -0.0033800676, y: 0.022638349, z: 0.044634115, w: 0.99874115}
+      scale: {x: 0.99999976, y: 0.9999998, z: 1.0000007}
+    - name: BigHeads L Hand
+      parentName: 
+      position: {x: -0.22083074, y: -0.000000053901225, z: -0.00000032726805}
+      rotation: {x: 0.7190964, y: 0.017128836, z: 0.095074445, w: -0.6881627}
+      scale: {x: 1.0000001, y: 0.99999964, z: 0.9999999}
+    - name: BigHeads L Finger0
+      parentName: 
+      position: {x: -0.051297337, y: 0.030413553, z: -0.06986084}
+      rotation: {x: 0.59988135, y: -0.4341737, z: 0.14275576, w: 0.65670115}
+      scale: {x: 0.9999995, y: 1.0000001, z: 0.99999934}
+    - name: BigHeads L Finger01
+      parentName: 
+      position: {x: -0.048610445, y: -0.00000013044743, z: 0.00000018326769}
+      rotation: {x: 0.000000003861932, y: -0.00000034597053, z: 0.040501557, w: -0.9991795}
+      scale: {x: 1.0000004, y: 0.9999996, z: 1.0000001}
+    - name: BigHeads L Finger0Nub
+      parentName: 
+      position: {x: -0.048610516, y: 0, z: 0}
+      rotation: {x: -0.000000007450581, y: -0.000000014901161, z: -0.000000014901161,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BigHeads L Finger1
+      parentName: 
+      position: {x: -0.12241922, y: -0.0006961039, z: -0.05378509}
+      rotation: {x: -0.010735054, y: -0.04760157, z: 0.02456782, w: 0.9985066}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000002}
+    - name: BigHeads L Finger11
+      parentName: 
+      position: {x: -0.049993053, y: -0.000000019114312, z: -0.0000000021736866}
+      rotation: {x: 0.0000000511222, y: -0.00000030422243, z: -0.039452683, w: 0.99922144}
+      scale: {x: 1.0000001, y: 0.9999998, z: 0.9999999}
+    - name: BigHeads L Finger1Nub
+      parentName: 
+      position: {x: -0.04999294, y: 0, z: 0.000000009536743}
+      rotation: {x: 0.0000000013969839, y: -9.313226e-10, z: 0.000000014901161, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BigHeads L Finger2
+      parentName: 
+      position: {x: -0.12301472, y: -0.014457619, z: 0.005914411}
+      rotation: {x: -0.004402404, y: -0.05063805, z: 0.031229842, w: 0.99821895}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.99999994}
+    - name: BigHeads L Finger21
+      parentName: 
+      position: {x: -0.04986462, y: -0.00000020407973, z: 0.000000010270643}
+      rotation: {x: -0.00000010219708, y: 0.00000023922166, z: -0.034788325, w: 0.9993947}
+      scale: {x: 1, y: 0.9999996, z: 0.9999997}
+    - name: BigHeads L Finger2Nub
+      parentName: 
+      position: {x: -0.049864385, y: 0, z: 0}
+      rotation: {x: -4.656613e-10, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BigHeads Neck
+      parentName: 
+      position: {x: -0.27852905, y: 0.026335308, z: 0.000000019148477}
+      rotation: {x: 0.00000006320923, y: 0.0000009329948, z: -0.17750487, w: 0.98412}
+      scale: {x: 0.9999997, y: 0.99999964, z: 0.99999976}
+    - name: BigHeads Head
+      parentName: 
+      position: {x: -0.0882346, y: 0.000000026948886, z: 0.0000000043117203}
+      rotation: {x: -0.00000003478192, y: 0.00000059266785, z: -0.037257746, w: -0.9993057}
+      scale: {x: 0.9999997, y: 0.9999996, z: 0.9999999}
+    - name: BigHeads HeadNub
+      parentName: 
+      position: {x: -0.51538754, y: 0, z: -7.2759575e-14}
+      rotation: {x: 1.4210855e-14, y: -2.842171e-14, z: 4.038968e-28, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BigHeads R Clavicle
+      parentName: 
+      position: {x: -0.17776892, y: -0.010732832, z: -0.034875788}
+      rotation: {x: 0.67647344, y: 0.00026820885, z: 0.73646694, w: -0.00029415547}
+      scale: {x: 1.0000001, y: 0.9999996, z: 1.0000001}
+    - name: BigHeads R UpperArm
+      parentName: 
+      position: {x: -0.115917094, y: 0.00000005496128, z: 0.0000006671762}
+      rotation: {x: 0.068518154, y: 0.0119021265, z: 0.017393881, w: -0.9974272}
+      scale: {x: 0.99999964, y: 1, z: 0.9999994}
+    - name: BigHeads R Forearm
+      parentName: 
+      position: {x: -0.25860316, y: -0.000000027659748, z: -0.00000027799467}
+      rotation: {x: 0.0034457692, y: -0.023077691, z: 0.043444656, w: 0.99878335}
+      scale: {x: 0.9999997, y: 0.99999994, z: 1.0000004}
+    - name: BigHeads R Hand
+      parentName: 
+      position: {x: -0.22083083, y: -0.000000014364612, z: -0.000000054333753}
+      rotation: {x: -0.71916497, y: -0.016532816, z: 0.09484721, w: -0.688137}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: BigHeads R Finger0
+      parentName: 
+      position: {x: -0.051286753, y: 0.030408446, z: 0.06986831}
+      rotation: {x: -0.5943703, y: 0.41068983, z: 0.1646566, w: 0.67152524}
+      scale: {x: 0.9999995, y: 1.0000006, z: 0.99999976}
+    - name: BigHeads R Finger01
+      parentName: 
+      position: {x: -0.04861023, y: -0.000000022911065, z: -0.00000020711292}
+      rotation: {x: 0.000000041445468, y: -0.0000011462907, z: -0.040503606, w: 0.9991794}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: BigHeads R Finger0Nub
+      parentName: 
+      position: {x: -0.048610553, y: 0, z: 0}
+      rotation: {x: 0.000000014901161, y: -9.12433e-25, z: 1, w: 6.123234e-17}
+      scale: {x: -1, y: -1, z: -1}
+    - name: BigHeads R Finger1
+      parentName: 
+      position: {x: -0.12241899, y: -0.00069613894, z: 0.05378513}
+      rotation: {x: 0.010735357, y: 0.047602367, z: 0.024568794, w: 0.9985065}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1.0000002}
+    - name: BigHeads R Finger11
+      parentName: 
+      position: {x: -0.04999293, y: 0.000000106709024, z: -0.0000000060035537}
+      rotation: {x: -0.0000000059128062, y: -0.000000061838215, z: -0.039453067, w: 0.9992215}
+      scale: {x: 1.0000005, y: 1.0000005, z: 0.9999998}
+    - name: BigHeads R Finger1Nub
+      parentName: 
+      position: {x: -0.04999294, y: 0, z: -0.0000000047683715}
+      rotation: {x: -9.313226e-10, y: -1.3877788e-17, z: 1, w: -0.000000014901161}
+      scale: {x: -1, y: -1, z: -1}
+    - name: BigHeads R Finger2
+      parentName: 
+      position: {x: -0.123014644, y: -0.014457659, z: -0.005914372}
+      rotation: {x: 0.0044027665, y: 0.050637387, z: 0.031233523, w: 0.99821895}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: BigHeads R Finger21
+      parentName: 
+      position: {x: -0.049864262, y: 0.0000002114516, z: 0.000000015174974}
+      rotation: {x: 0.000000013882442, y: -0.00000010908994, z: -0.034792535, w: 0.9993946}
+      scale: {x: 1, y: 1.0000002, z: 0.9999997}
+    - name: BigHeads R Finger2Nub
+      parentName: 
+      position: {x: -0.049864348, y: 0, z: 0}
+      rotation: {x: 9.313227e-10, y: 0.0000000023283067, z: 1, w: -0.000000014901163}
+      scale: {x: -0.9999999, y: -0.9999999, z: -1}
+    - name: BigHeads floor
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,25 +1,26 @@
-#$PROJDIR
+shader_doodles_unity/.vs
 
 obj
 Temp
 .suo
 .user
 
-#$PROJDIR/Library
 
-cache
-metadata
-ScriptAssemblies
-assetDatabase3
-assetservercachev3
-AssetServerCacheV3
-AssetVersioning.db
-expandedItems
-FailedAssetImports.txt
-guidmapper
-ScriptMapper
-unity default resources
-unity editor resources
+
+shader_doodles_unity/Library/cache
+shader_doodles_unity/Library/metadata
+shader_doodles_unity/Library/ScriptAssemblies
+shader_doodles_unity/Library/assetDatabase3
+shader_doodles_unity/Library/assetservercachev3
+shader_doodles_unity/Library/AssetServerCacheV3
+shader_doodles_unity/Library/AssetVersioning.db
+shader_doodles_unity/Library/expandedItems
+shader_doodles_unity/Library/FailedAssetImports.txt
+shader_doodles_unity/Library/guidmapper
+shader_doodles_unity/Library/ScriptMapper
+shader_doodles_unity/Library/unity default resources
+shader_doodles_unity/Library/unity editor resources
+shader_doodles_unity/Library/ShaderCache
 
 #$PROJDIR
 
