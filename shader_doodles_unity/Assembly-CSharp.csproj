@@ -63,6 +63,7 @@
     <Compile Include="Assets\_scripts\CharacterControls.cs" />
     <Compile Include="Assets\_scripts\DepthTexture.cs" />
     <Compile Include="Assets\_scripts\DirLightRotate.cs" />
+    <Compile Include="Assets\_scripts\gauss\ProcGenMountain.cs" />
     <Compile Include="Assets\_scripts\ModelControl.cs" />
     <Compile Include="Assets\_scripts\PulseMeshHandler.cs" />
     <Compile Include="Assets\_scripts\TreeSway.cs" />
