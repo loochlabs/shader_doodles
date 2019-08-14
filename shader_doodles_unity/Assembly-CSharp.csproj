@@ -66,6 +66,7 @@
     <Compile Include="Assets\_scripts\gauss\ProcGenMountain.cs" />
     <Compile Include="Assets\_scripts\ModelControl.cs" />
     <Compile Include="Assets\_scripts\PulseMeshHandler.cs" />
+    <Compile Include="Assets\_scripts\terrain\TerrainGenerator.cs" />
     <Compile Include="Assets\_scripts\TreeSway.cs" />
     <Compile Include="Assets\_scripts\WaterRippleController.cs" />
     <Compile Include="Assets\_scripts\WorldSphere.cs" />
